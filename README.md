@@ -1,4 +1,4 @@
-# typing-speed
+# typing_speed
 A python package that allows for a simple typing speed test in the terminal
 ## To use: 
 from typing_speed import typing_speed
